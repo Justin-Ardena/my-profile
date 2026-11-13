@@ -157,7 +157,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     final scheme = ColorScheme.fromSeed(seedColor: Colors.indigo);
     return MaterialApp(
-      title: 'Unit 8 Exercise',
+      title: "Justin Ace's Profile",
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         colorScheme: scheme,
